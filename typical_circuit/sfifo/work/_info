@@ -1,0 +1,80 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/ICVerification/typical_circuit/clock_divider
+vdual_port_RAM
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 b8N75A[cZn7N=JodaR;=f3
+IW2hef6c[hfhhZ6[L]i_dA0
+Z2 !s105 sfifo_sv_unit
+S1
+Z3 dD:/ICVerification/typical_circuit/sfifo
+Z4 w1682302935
+Z5 8D:/ICVerification/typical_circuit/sfifo/sfifo.sv
+Z6 FD:/ICVerification/typical_circuit/sfifo/sfifo.sv
+L0 3
+Z7 OL;L;10.6c;65
+Z8 !s108 1682323575.000000
+Z9 !s107 D:/ICVerification/typical_circuit/sfifo/sfifo.sv|
+Z10 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ICVerification/typical_circuit/sfifo/sfifo.sv|
+!i113 0
+Z11 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z12 tCvgOpt 0
+ndual_port_@r@a@m
+vsfifo
+R0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 nP1iU<ocE_C2X;6?IhbOb1
+IYj@Nz8ccF`^omMKQ8U3dD3
+R2
+S1
+R3
+R4
+R5
+R6
+L0 30
+R7
+R8
+R9
+R10
+!i113 0
+R11
+R12
+vsync_fifo_tb
+R0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 P<Q[j1KZMWRk2fI^P[8]Z1
+ILHJcD2h`NQmAaRB]H16>]1
+!s105 testbench_sv_unit
+S1
+R3
+w1682325934
+8D:/ICVerification/typical_circuit/sfifo/testbench.sv
+FD:/ICVerification/typical_circuit/sfifo/testbench.sv
+L0 2
+R7
+!s108 1682325940.000000
+!s107 D:/ICVerification/typical_circuit/sfifo/testbench.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ICVerification/typical_circuit/sfifo/testbench.sv|
+!i113 0
+R11
+R12

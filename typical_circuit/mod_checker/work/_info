@@ -1,0 +1,53 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/ICVerification/typical_circuit/clock_change
+vmod3_check
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 al6b6@30eG]Wd_LQDHPbn1
+IX1j@6T9EM^i6I:zRh78gO3
+Z1 dD:/ICVerification/typical_circuit/mod_checker
+w1690092113
+8D:/ICVerification/typical_circuit/mod_checker/mod3_check.v
+FD:/ICVerification/typical_circuit/mod_checker/mod3_check.v
+L0 1
+Z2 OL;L;10.6c;65
+Z3 !s108 1690092159.000000
+!s107 D:/ICVerification/typical_circuit/mod_checker/mod3_check.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/ICVerification/typical_circuit/mod_checker/mod3_check.v|
+!i113 0
+o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z4 tCvgOpt 0
+vmod3_check_tb
+DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 <:W5a^Sna=C`[R]6;lBJ:0
+IVL:[F<A9_W^TT<@4>A;H^2
+!s105 tb_sv_unit
+S1
+R1
+w1690091682
+8D:/ICVerification/typical_circuit/mod_checker/tb.sv
+FD:/ICVerification/typical_circuit/mod_checker/tb.sv
+L0 3
+R2
+R3
+!s107 D:/ICVerification/typical_circuit/mod_checker/tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ICVerification/typical_circuit/mod_checker/tb.sv|
+!i113 0
+o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4

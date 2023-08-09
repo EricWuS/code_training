@@ -1,0 +1,15 @@
+D:/ICVerification/code_training/typical_circuit/clock_divider/clock_div3.sv {1 {vlog -work work -vopt -sv -stats=none D:/ICVerification/code_training/typical_circuit/clock_divider/clock_div3.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module clock_divider
+
+Top level modules:
+	clock_divider
+
+} {} {}} D:/ICVerification/code_training/typical_circuit/clock_divider/testbench.sv {1 {vlog -work work -vopt -sv -stats=none D:/ICVerification/code_training/typical_circuit/clock_divider/testbench.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}}

@@ -1,0 +1,15 @@
+D:/ICVerification/code_training/typical_circuit/traffic_light/trafffic_light.v {1 {vlog -work work -vopt -stats=none D:/ICVerification/code_training/typical_circuit/traffic_light/trafffic_light.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module traffic_light
+
+Top level modules:
+	traffic_light
+
+} {} {}} D:/ICVerification/code_training/typical_circuit/traffic_light/tb.sv {1 {vlog -work work -vopt -sv -stats=none D:/ICVerification/code_training/typical_circuit/traffic_light/tb.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module triffic_light_tb
+
+Top level modules:
+	triffic_light_tb
+
+} {} {}}

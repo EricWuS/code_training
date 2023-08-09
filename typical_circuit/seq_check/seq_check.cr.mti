@@ -1,0 +1,15 @@
+D:/ICVerification/code_training/typical_circuit/seq_check/tb.sv {1 {vlog -work work -vopt -sv -stats=none D:/ICVerification/code_training/typical_circuit/seq_check/tb.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module seq_check_tb
+
+Top level modules:
+	seq_check_tb
+
+} {} {}} D:/ICVerification/code_training/typical_circuit/seq_check/seq_check.v {1 {vlog -work work -vopt -stats=none D:/ICVerification/code_training/typical_circuit/seq_check/seq_check.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module seq_check
+
+Top level modules:
+	seq_check
+
+} {} {}}

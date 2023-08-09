@@ -1,0 +1,16 @@
+D:/ICVerification/code_training/typical_circuit/adder/testbench.sv {1 {vlog -work work -vopt -sv -stats=none D:/ICVerification/code_training/typical_circuit/adder/testbench.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} D:/ICVerification/code_training/typical_circuit/adder/adder.v {1 {vlog -work work -vopt -stats=none D:/ICVerification/code_training/typical_circuit/adder/adder.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module adder
+-- Compiling module adder_one_bit
+
+Top level modules:
+	adder
+
+} {} {}}

@@ -1,0 +1,8 @@
+D:/ICVerification/code_training/typical_circuit/edge_detect/tb.sv {1 {vlog -work work -vopt -sv -stats=none D:/ICVerification/code_training/typical_circuit/edge_detect/tb.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module edge_detect_tb
+
+Top level modules:
+	edge_detect_tb
+
+} {} {}}

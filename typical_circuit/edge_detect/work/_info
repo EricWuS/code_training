@@ -1,0 +1,53 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/ICVerification/code_training/typical_circuit/seq_check
+vedge_detect
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 z>^YK7W>ILm;4cdk@6A0o2
+I87k@ERTHe>4iXAjE2P[5>0
+Z1 dD:/ICVerification/code_training/typical_circuit/edge_detect
+w1690291567
+8D:/ICVerification/code_training/typical_circuit/edge_detect/edge_detect.v
+FD:/ICVerification/code_training/typical_circuit/edge_detect/edge_detect.v
+L0 3
+Z2 OL;L;10.6c;65
+Z3 !s108 1690291621.000000
+!s107 D:/ICVerification/code_training/typical_circuit/edge_detect/edge_detect.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/ICVerification/code_training/typical_circuit/edge_detect/edge_detect.v|
+!i113 0
+o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z4 tCvgOpt 0
+vedge_detect_tb
+DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 ]4GXe`4`DKmcDfnIPIFXO0
+I>H[0L9e6Jf@GdZQBdK3103
+!s105 tb_sv_unit
+S1
+R1
+w1690291612
+8D:/ICVerification/code_training/typical_circuit/edge_detect/tb.sv
+FD:/ICVerification/code_training/typical_circuit/edge_detect/tb.sv
+L0 3
+R2
+R3
+!s107 D:/ICVerification/code_training/typical_circuit/edge_detect/tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ICVerification/code_training/typical_circuit/edge_detect/tb.sv|
+!i113 0
+o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4

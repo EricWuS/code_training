@@ -1,0 +1,9 @@
+D:/ICVerification/typical_circuit/sfifo/sfifo.sv {1 {vlog -work work -vopt -sv -stats=none D:/ICVerification/typical_circuit/sfifo/sfifo.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module dual_port_RAM
+-- Compiling module sfifo
+
+Top level modules:
+	sfifo
+
+} {} {}}

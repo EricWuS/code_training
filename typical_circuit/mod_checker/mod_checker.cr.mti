@@ -1,0 +1,8 @@
+D:/ICVerification/typical_circuit/mod_checker/tb.sv {1 {vlog -work work -vopt -sv -stats=none D:/ICVerification/typical_circuit/mod_checker/tb.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module mod3_check_tb
+
+Top level modules:
+	mod3_check_tb
+
+} {} {}}

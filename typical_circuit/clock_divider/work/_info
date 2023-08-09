@@ -1,0 +1,119 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/ICVerification/typical_circuit/signal_genetator
+vclock_divider
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 ?WO[VlhkU;3MUoBDgiAeX3
+I0?5LK5M[7DOFACW4OzZPO1
+!s105 clock_div3_sv_unit
+S1
+Z2 dD:/ICVerification/code_training/typical_circuit/clock_divider
+w1690203989
+8D:/ICVerification/code_training/typical_circuit/clock_divider/clock_div3.sv
+FD:/ICVerification/code_training/typical_circuit/clock_divider/clock_div3.sv
+L0 77
+Z3 OL;L;10.6c;65
+Z4 !s108 1690204084.000000
+!s107 D:/ICVerification/code_training/typical_circuit/clock_divider/clock_div3.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ICVerification/code_training/typical_circuit/clock_divider/clock_div3.sv|
+!i113 0
+Z5 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z6 tCvgOpt 0
+vglitch_free
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 hajFeQCz1WI7Kig[WCWBf2
+IJ_6]T9SfKPmle5doAPUCO1
+Z7 dD:/ICVerification/typical_circuit/clock_divider
+w1689044386
+8D:/ICVerification/typical_circuit/clock_change/glitch_free.v
+FD:/ICVerification/typical_circuit/clock_change/glitch_free.v
+L0 1
+R3
+Z8 !s108 1689044409.000000
+!s107 D:/ICVerification/typical_circuit/clock_change/glitch_free.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/ICVerification/typical_circuit/clock_change/glitch_free.v|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R6
+vsimple
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 Q4HKkakf25?KaUTIgS=9B2
+I3QVoHR<]eU9a74>fBjb]i3
+R7
+w1689040005
+8D:/ICVerification/typical_circuit/clock_change/simple_switch.v
+FD:/ICVerification/typical_circuit/clock_change/simple_switch.v
+L0 1
+R3
+R8
+!s107 D:/ICVerification/typical_circuit/clock_change/simple_switch.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/ICVerification/typical_circuit/clock_change/simple_switch.v|
+!i113 0
+R9
+R6
+vtb
+R0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 kf`[==O_c_CCBz7ON=4BY2
+I89[QFG13D[?Nf`AE^8V5m3
+!s105 testbench_sv_unit
+S1
+R2
+w1690204075
+8D:/ICVerification/code_training/typical_circuit/clock_divider/testbench.sv
+FD:/ICVerification/code_training/typical_circuit/clock_divider/testbench.sv
+L0 2
+R3
+R4
+!s107 D:/ICVerification/code_training/typical_circuit/clock_divider/testbench.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ICVerification/code_training/typical_circuit/clock_divider/testbench.sv|
+!i113 0
+R5
+R6
+vtest
+R0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 h_PJ_Uc]VSKPnN@eUj5P?1
+I^lYhhW6gK]h6>[S8n_IPl1
+!s105 tb_sv_unit
+S1
+R7
+w1689044402
+8D:/ICVerification/typical_circuit/clock_change/tb.sv
+FD:/ICVerification/typical_circuit/clock_change/tb.sv
+L0 3
+R3
+R8
+!s107 D:/ICVerification/typical_circuit/clock_change/tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ICVerification/typical_circuit/clock_change/tb.sv|
+!i113 0
+R5
+R6

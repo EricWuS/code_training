@@ -1,0 +1,56 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/ICVerification/project/APB-UART/apb-uart-uvm-env
+vseq
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 aA4mfN>gZ`a_7oCC>K6II2
+IEgQ8m_lLZQc1U;I8L8BL51
+!s105 seq_generate_sv_unit
+S1
+Z2 dD:/ICVerification/code_training/typical_circuit/sequence_generator
+w1690893275
+8D:/ICVerification/code_training/typical_circuit/sequence_generator/seq_generate.sv
+FD:/ICVerification/code_training/typical_circuit/sequence_generator/seq_generate.sv
+L0 1
+Z3 OL;L;10.6c;65
+!s108 1690893368.000000
+!s107 D:/ICVerification/code_training/typical_circuit/sequence_generator/seq_generate.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ICVerification/code_training/typical_circuit/sequence_generator/seq_generate.sv|
+!i113 0
+Z4 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z5 tCvgOpt 0
+vseq_tb
+R0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 BSH8_3Q?21H[fzn^?`7N>3
+IcCOPH3=1f9^N9mZLzS0SD3
+!s105 testbench_sv_unit
+S1
+R2
+w1680075687
+8D:/ICVerification/code_training/typical_circuit/sequence_generator/testbench.sv
+FD:/ICVerification/code_training/typical_circuit/sequence_generator/testbench.sv
+L0 3
+R3
+!s108 1690893369.000000
+!s107 D:/ICVerification/code_training/typical_circuit/sequence_generator/testbench.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ICVerification/code_training/typical_circuit/sequence_generator/testbench.sv|
+!i113 0
+R4
+R5
