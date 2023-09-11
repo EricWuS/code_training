@@ -1,4 +1,4 @@
-// 手撕代码题 4 ：检测序列10110，要求没检测到一次该序列输出两个周期的高电平信号，采用低功耗的方式
+// 手撕代码题 4 ：检测序列10110，要求每检测到一次该序列输出两个周期的高电平信号，采用低功耗的方式
 
 module seq_check (
     input clk,
@@ -28,7 +28,7 @@ module seq_check (
         case (cur_sta)
             S0: next_sta = din ? S1 : S0;
             S1: next_sta = din ? S1 : S2;
-            S2: next_sta = din ? S3 : S2;
+            S2: next_sta = din ? S3 : S0;
             S3: next_sta = din ? S4 : S2;
             S4: next_sta = din ? S1 : S5;
             S5: next_sta = din ? S3 : S0;
